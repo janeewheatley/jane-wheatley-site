@@ -1,0 +1,31 @@
+#root {
+  width: 100%;
+}
+
+body {
+  font-family: 'Orpheus Pro', serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+  background-color: #F2F2F2;
+  color: #FC221C;
+}
+
+.app {
+  width: 100%;
+}
+
+/* Remove any padding-top from about or other wrappers */
+.about {
+  padding-top: 0;
+}
+
+.experience {
+  margin-top: 2rem;
+}
+
+.experience-item {
+  margin: 0 4rem;
+  font-size: 2rem;
+}
