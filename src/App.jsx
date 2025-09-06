@@ -23,7 +23,7 @@ function App() {
             </div>
 
             {/* About Section */}
-            <div className="about max-w-7xl mx-auto px-10 py-4 sm:px-6 lg:px-10 mt-30">
+            <div className="about max-w-7xl mx-auto px-10 py-4 sm:px-6 lg:px-10 mt-30 mb-20">
               <p className="text-left w-3/4 text-xl sm:text-2xl md:text-3xl lg:text-5xl font-light leading-tight text-red-600">
                 I'm a software engineer with a passion for creating products for social good.
               </p>
