@@ -6,7 +6,7 @@ function About() {
      <div className="flex flex-col md:flex-row gap-8 md:gap-12 mt-10">
         {/* Left Column */}
         <div className="md:w-1/3 mt-10 ">
-            <h2 className="text-3xl font-bold text-red-600 mb-4">I'm a software engineer who combines compassion and technical expertise to build impactful solutions.</h2>
+            <h2 className="text-3xl font-bold text-red-600 mb-4">Combining compassion and technical expertise to build impactful solutions.</h2>
         </div>
         {/* Right Column */}
         <div className="md:w-1/2 mt-10">
